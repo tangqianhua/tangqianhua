@@ -4,7 +4,7 @@
 
 #  Introduce
 
-✍️ 本人从事前端开发已有五年，喜欢优雅的代码，自我要求高，喜欢逛技术论坛，也喜欢看书写作，这是我的[博客](https://www.yuque.com/u335589/ykhutm/spw4s2)，目前正在参与公司内部自研发低代码框架。
+前端，会一点js代码，[博客](https://www.yuque.com/u335589/ykhutm/spw4s2)，正在参与公司内部自研发低代码框架。
 
 有兴趣的小伙伴可以[点击这里](https://www.zhipin.com/job_detail/331faf6113aaa0d81nF-3dm6EFFY.html?ka=search_list_jname_4_blank&lid=5hh8OJeqs5V.search.4&securityId=oYDWuBiBfrSoV-413yOyyLBgoU96Ld2YJqV9rZaCNfvQU1YMxrvHuYg7bY0o2IOWmRuzQtfvX-JePTZRz7Ss7F0z1_BqIN1tR3lZnHnSAst558qb8g%7E%7E)
 
